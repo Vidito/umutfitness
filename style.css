@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap");
+
+.headertext {
+  position: absolute;
+  top: 20%;
+  text-align: center;
+}
+.headertext p {
+  text-align: center;
+  font-size: 2rem;
+  font-family: "Roboto Mono", monospace;
+}

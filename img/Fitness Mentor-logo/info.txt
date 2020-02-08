@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: LeagueSpartan-Bold
+font link: https://www.theleagueofmoveabletype.com/league-spartan
+font author: The League of Moveable Type
+font author site: https://www.theleagueofmoveabletype.com/
+
+
+icon designer: Bernar  Novalyi
+icon designer link: /bernar.novalyi
+        
+{"bg":"transparent","icon-gradient-0":"#8C48D2","icon-gradient-1":"#CF705A","font":"#000000","slogan":"#141414"}
+      
